@@ -1,0 +1,160 @@
+C:\Users\ABACIAL\documents\visual studio 2010\Projects\Dela Rama\Dela Rama\bin\Debug\Dela Rama.exe
+C:\Users\ABACIAL\documents\visual studio 2010\Projects\Dela Rama\Dela Rama\bin\Debug\Dela Rama.pdb
+C:\Users\ABACIAL\documents\visual studio 2010\Projects\Dela Rama\Dela Rama\bin\Debug\Dela Rama.xml
+C:\Users\ABACIAL\documents\visual studio 2010\Projects\Dela Rama\Dela Rama\obj\x86\Debug\Dela_Rama.Resources.resources
+C:\Users\ABACIAL\documents\visual studio 2010\Projects\Dela Rama\Dela Rama\obj\x86\Debug\Dela Rama.vbproj.GenerateResource.Cache
+C:\Users\ABACIAL\documents\visual studio 2010\Projects\Dela Rama\Dela Rama\obj\x86\Debug\Dela Rama.exe
+C:\Users\ABACIAL\documents\visual studio 2010\Projects\Dela Rama\Dela Rama\obj\x86\Debug\Dela Rama.xml
+C:\Users\ABACIAL\documents\visual studio 2010\Projects\Dela Rama\Dela Rama\obj\x86\Debug\Dela Rama.pdb
+C:\Users\ABACIAL\Documents\Visual Studio 2010\Projects\Dela Rama\Dela Rama\obj\x86\Debug\Dela_Rama.frmLogin.resources
+C:\Users\ABACIAL\Documents\Visual Studio 2010\Projects\Dela Rama\Dela Rama\obj\x86\Debug\Dela_Rama.frmMain.resources
+C:\Users\ABACIAL\Documents\Visual Studio 2010\Projects\Dela Rama\Dela Rama\obj\x86\Debug\Dela_Rama.frmEmployee.resources
+C:\Users\ABACIAL\Documents\Visual Studio 2010\Projects\Dela Rama\Dela Rama\obj\x86\Debug\Dela_Rama.frmCustomer.resources
+C:\Users\ABACIAL\Documents\Visual Studio 2010\Projects\Dela Rama\Dela Rama\obj\x86\Debug\Dela_Rama.Orders.resources
+H:\DelaRama\Dela Rama\Dela Rama\obj\x86\Debug\Dela Rama.exe
+H:\DelaRama\Dela Rama\Dela Rama\obj\x86\Debug\Dela Rama.xml
+H:\DelaRama\Dela Rama\Dela Rama\obj\x86\Debug\Dela Rama.pdb
+H:\DelaRama\Dela Rama\Dela Rama\bin\Debug\Dela Rama.exe
+H:\DelaRama\Dela Rama\Dela Rama\bin\Debug\Dela Rama.pdb
+H:\DelaRama\Dela Rama\Dela Rama\bin\Debug\Dela Rama.xml
+H:\DelaRama\Dela Rama\Dela Rama\obj\x86\Debug\Dela_Rama.frmCustomer.resources
+H:\DelaRama\Dela Rama\Dela Rama\obj\x86\Debug\Dela_Rama.frmEmployee.resources
+H:\DelaRama\Dela Rama\Dela Rama\obj\x86\Debug\Dela_Rama.frmLogin.resources
+H:\DelaRama\Dela Rama\Dela Rama\obj\x86\Debug\Dela_Rama.frmMain.resources
+H:\DelaRama\Dela Rama\Dela Rama\obj\x86\Debug\Dela_Rama.Resources.resources
+H:\DelaRama\Dela Rama\Dela Rama\obj\x86\Debug\Dela_Rama.frmOrders.resources
+H:\DelaRama\Dela Rama\Dela Rama\obj\x86\Debug\Dela Rama.vbproj.GenerateResource.Cache
+C:\Users\ABACIAL\Desktop\Dela Rama\Dela Rama\obj\x86\Debug\Dela Rama.exe
+C:\Users\ABACIAL\Desktop\Dela Rama\Dela Rama\obj\x86\Debug\Dela Rama.xml
+C:\Users\ABACIAL\Desktop\Dela Rama\Dela Rama\obj\x86\Debug\Dela Rama.pdb
+C:\Users\ABACIAL\Desktop\Dela Rama\Dela Rama\bin\Debug\Dela Rama.exe
+C:\Users\ABACIAL\Desktop\Dela Rama\Dela Rama\bin\Debug\Dela Rama.pdb
+C:\Users\ABACIAL\Desktop\Dela Rama\Dela Rama\bin\Debug\Dela Rama.xml
+C:\Users\ABACIAL\Desktop\Dela Rama\Dela Rama\obj\x86\Debug\Dela_Rama.frmCustomer.resources
+C:\Users\ABACIAL\Desktop\Dela Rama\Dela Rama\obj\x86\Debug\Dela_Rama.frmEmployee.resources
+C:\Users\ABACIAL\Desktop\Dela Rama\Dela Rama\obj\x86\Debug\Dela_Rama.frmLogin.resources
+C:\Users\ABACIAL\Desktop\Dela Rama\Dela Rama\obj\x86\Debug\Dela_Rama.frmMain.resources
+C:\Users\ABACIAL\Desktop\Dela Rama\Dela Rama\obj\x86\Debug\Dela_Rama.Resources.resources
+C:\Users\ABACIAL\Desktop\Dela Rama\Dela Rama\obj\x86\Debug\Dela_Rama.frmOrders.resources
+C:\Users\ABACIAL\Desktop\Dela Rama\Dela Rama\obj\x86\Debug\Dela Rama.vbproj.GenerateResource.Cache
+C:\Users\ABACIAL\Desktop\Dela Rama\Dela Rama\obj\x86\Debug\Dela_Rama.frmItems.resources
+C:\Users\ABACIAL\Desktop\Dela Rama\Dela Rama\obj\x86\Debug\Dela_Rama.frmBalloons.resources
+C:\Users\ABACIAL\Desktop\Dela Rama\Dela Rama\obj\x86\Debug\Dela_Rama.frmBeverages.resources
+C:\Users\ABACIAL\Desktop\Dela Rama\Dela Rama\obj\x86\Debug\Dela_Rama.frmCake.resources
+C:\Users\ABACIAL\Desktop\Dela Rama\Dela Rama\obj\x86\Debug\Dela_Rama.frmDesserts.resources
+C:\Users\ABACIAL\Desktop\Dela Rama\Dela Rama\obj\x86\Debug\Dela_Rama.frmStuffs.resources
+F:\DelaRama\Dela Rama\Dela Rama\obj\x86\Debug\Dela Rama.exe
+F:\DelaRama\Dela Rama\Dela Rama\obj\x86\Debug\Dela Rama.xml
+F:\DelaRama\Dela Rama\Dela Rama\obj\x86\Debug\Dela Rama.pdb
+F:\DelaRama\Dela Rama\Dela Rama\bin\Debug\Dela Rama.exe
+F:\DelaRama\Dela Rama\Dela Rama\bin\Debug\Dela Rama.pdb
+F:\DelaRama\Dela Rama\Dela Rama\bin\Debug\Dela Rama.xml
+F:\DelaRama\Dela Rama\Dela Rama\obj\x86\Debug\Dela_Rama.frmBalloons.resources
+F:\DelaRama\Dela Rama\Dela Rama\obj\x86\Debug\Dela_Rama.frmBeverages.resources
+F:\DelaRama\Dela Rama\Dela Rama\obj\x86\Debug\Dela_Rama.frmCake.resources
+F:\DelaRama\Dela Rama\Dela Rama\obj\x86\Debug\Dela_Rama.frmCustomer.resources
+F:\DelaRama\Dela Rama\Dela Rama\obj\x86\Debug\Dela_Rama.frmDesserts.resources
+F:\DelaRama\Dela Rama\Dela Rama\obj\x86\Debug\Dela_Rama.frmEmployee.resources
+F:\DelaRama\Dela Rama\Dela Rama\obj\x86\Debug\Dela_Rama.frmItems.resources
+F:\DelaRama\Dela Rama\Dela Rama\obj\x86\Debug\Dela_Rama.frmLogin.resources
+F:\DelaRama\Dela Rama\Dela Rama\obj\x86\Debug\Dela_Rama.frmMain.resources
+F:\DelaRama\Dela Rama\Dela Rama\obj\x86\Debug\Dela_Rama.frmStuffs.resources
+F:\DelaRama\Dela Rama\Dela Rama\obj\x86\Debug\Dela_Rama.Resources.resources
+F:\DelaRama\Dela Rama\Dela Rama\obj\x86\Debug\Dela_Rama.frmOrders.resources
+F:\DelaRama\Dela Rama\Dela Rama\obj\x86\Debug\Dela Rama.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Dela Rama\Dela Rama\obj\x86\Debug\Dela Rama.exe
+C:\Users\User\Desktop\Dela Rama\Dela Rama\obj\x86\Debug\Dela Rama.xml
+C:\Users\User\Desktop\Dela Rama\Dela Rama\obj\x86\Debug\Dela Rama.pdb
+E:\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela Rama.exe
+E:\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela Rama.xml
+E:\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela Rama.pdb
+F:\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.frmCustomer.resources
+F:\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.frmEmployee.resources
+F:\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.frmItems.resources
+F:\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.frmLogin.resources
+F:\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.frmMain.resources
+F:\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.Resources.resources
+F:\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.frmOrders.resources
+F:\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela Rama.vbproj.GenerateResource.Cache
+F:\Dela Rama Real\Dela Rama\bin\Debug\Dela_Rama.exe
+F:\Dela Rama Real\Dela Rama\bin\Debug\Dela_Rama.pdb
+F:\Dela Rama Real\Dela Rama\bin\Debug\Dela_Rama.xml
+F:\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.exe
+F:\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.xml
+F:\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.pdb
+E:\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.exe
+E:\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.xml
+E:\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.pdb
+F:\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.frmReservation.resources
+C:\Users\ABACIAL\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.exe
+C:\Users\ABACIAL\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.xml
+C:\Users\ABACIAL\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.pdb
+C:\Users\ABACIAL\Desktop\Dela Rama Real\Dela Rama\bin\Debug\Dela_Rama.exe
+C:\Users\ABACIAL\Desktop\Dela Rama Real\Dela Rama\bin\Debug\Dela_Rama.pdb
+C:\Users\ABACIAL\Desktop\Dela Rama Real\Dela Rama\bin\Debug\Dela_Rama.xml
+C:\Users\ABACIAL\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.frmCustomer.resources
+C:\Users\ABACIAL\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.frmEmployee.resources
+C:\Users\ABACIAL\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.frmItems.resources
+C:\Users\ABACIAL\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.frmLogin.resources
+C:\Users\ABACIAL\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.frmMain.resources
+C:\Users\ABACIAL\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.frmReservation.resources
+C:\Users\ABACIAL\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.Resources.resources
+C:\Users\ABACIAL\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.frmOrders.resources
+C:\Users\ABACIAL\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela Rama.vbproj.GenerateResource.Cache
+C:\Users\NARANDAN\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.exe
+C:\Users\NARANDAN\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.xml
+C:\Users\NARANDAN\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.pdb
+C:\Users\NARANDAN\Desktop\Dela Rama Real\Dela Rama\bin\Debug\Dela_Rama.exe
+C:\Users\NARANDAN\Desktop\Dela Rama Real\Dela Rama\bin\Debug\Dela_Rama.pdb
+C:\Users\NARANDAN\Desktop\Dela Rama Real\Dela Rama\bin\Debug\Dela_Rama.xml
+C:\Users\NARANDAN\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.frmCustomer.resources
+C:\Users\NARANDAN\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.frmEmployee.resources
+C:\Users\NARANDAN\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.frmItems.resources
+C:\Users\NARANDAN\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.frmLogin.resources
+C:\Users\NARANDAN\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.frmMain.resources
+C:\Users\NARANDAN\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.frmReservation.resources
+C:\Users\NARANDAN\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.Resources.resources
+C:\Users\NARANDAN\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.frmOrders.resources
+C:\Users\NARANDAN\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela Rama.vbproj.GenerateResource.Cache
+F:\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.viewCustomerReservation.resources
+F:\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.viewcustomerOrder.resources
+F:\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.frmSalesReport.resources
+C:\Users\User\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.exe
+C:\Users\User\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.xml
+C:\Users\User\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.pdb
+C:\Users\User\Desktop\Dela Rama Real\Dela Rama\bin\Debug\Dela_Rama.exe
+C:\Users\User\Desktop\Dela Rama Real\Dela Rama\bin\Debug\Dela_Rama.pdb
+C:\Users\User\Desktop\Dela Rama Real\Dela Rama\bin\Debug\Dela_Rama.xml
+C:\Users\User\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.frmCustomer.resources
+C:\Users\User\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.frmEmployee.resources
+C:\Users\User\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.frmItems.resources
+C:\Users\User\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.frmLogin.resources
+C:\Users\User\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.frmMain.resources
+C:\Users\User\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.frmReservation.resources
+C:\Users\User\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.frmSalesReport.resources
+C:\Users\User\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.Resources.resources
+C:\Users\User\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.frmOrders.resources
+C:\Users\User\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.viewcustomerOrder.resources
+C:\Users\User\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.viewCustomerReservation.resources
+C:\Users\User\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela Rama.vbproj.GenerateResource.Cache
+C:\Users\ABACIAL\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.frmSalesReport.resources
+C:\Users\ABACIAL\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.viewcustomerOrder.resources
+C:\Users\ABACIAL\Desktop\Dela Rama Real\Dela Rama\obj\x86\Debug\Dela_Rama.viewCustomerReservation.resources
+C:\Users\ABACIAL\Desktop\DelaRama 2.0\Dela Rama\obj\x86\Debug\Dela_Rama.exe
+C:\Users\ABACIAL\Desktop\DelaRama 2.0\Dela Rama\obj\x86\Debug\Dela_Rama.xml
+C:\Users\ABACIAL\Desktop\DelaRama 2.0\Dela Rama\obj\x86\Debug\Dela_Rama.pdb
+C:\Users\ABACIAL\Desktop\DelaRama 2.0\Dela Rama\bin\Debug\Dela_Rama.exe
+C:\Users\ABACIAL\Desktop\DelaRama 2.0\Dela Rama\bin\Debug\Dela_Rama.pdb
+C:\Users\ABACIAL\Desktop\DelaRama 2.0\Dela Rama\bin\Debug\Dela_Rama.xml
+C:\Users\ABACIAL\Desktop\DelaRama 2.0\Dela Rama\obj\x86\Debug\Dela_Rama.frmCustomer.resources
+C:\Users\ABACIAL\Desktop\DelaRama 2.0\Dela Rama\obj\x86\Debug\Dela_Rama.frmEmployee.resources
+C:\Users\ABACIAL\Desktop\DelaRama 2.0\Dela Rama\obj\x86\Debug\Dela_Rama.frmItems.resources
+C:\Users\ABACIAL\Desktop\DelaRama 2.0\Dela Rama\obj\x86\Debug\Dela_Rama.frmLogin.resources
+C:\Users\ABACIAL\Desktop\DelaRama 2.0\Dela Rama\obj\x86\Debug\Dela_Rama.frmMain.resources
+C:\Users\ABACIAL\Desktop\DelaRama 2.0\Dela Rama\obj\x86\Debug\Dela_Rama.frmReservation.resources
+C:\Users\ABACIAL\Desktop\DelaRama 2.0\Dela Rama\obj\x86\Debug\Dela_Rama.frmSalesReport.resources
+C:\Users\ABACIAL\Desktop\DelaRama 2.0\Dela Rama\obj\x86\Debug\Dela_Rama.Resources.resources
+C:\Users\ABACIAL\Desktop\DelaRama 2.0\Dela Rama\obj\x86\Debug\Dela_Rama.frmOrders.resources
+C:\Users\ABACIAL\Desktop\DelaRama 2.0\Dela Rama\obj\x86\Debug\Dela_Rama.viewcustomerOrder.resources
+C:\Users\ABACIAL\Desktop\DelaRama 2.0\Dela Rama\obj\x86\Debug\Dela_Rama.viewCustomerReservation.resources
+C:\Users\ABACIAL\Desktop\DelaRama 2.0\Dela Rama\obj\x86\Debug\Dela Rama.vbproj.GenerateResource.Cache

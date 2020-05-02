@@ -1,0 +1,116 @@
+Imports System
+Imports System.Data.Sql
+Imports System.Data.SqlClient
+Public Class viewProducts
+    Public id, you, price As String
+    Public getID As Integer
+
+    Dim constr As String = "Data Source=DESKTOP-PQDQ9A9\SQLEXPRESS;Initial Catalog=DelaRama;Trusted_Connection=true;"
+    Dim myConn As SqlConnection
+    Dim rd As SqlDataReader
+    Dim cmd As New SqlCommand
+    Dim sql As String
+
+    Private Sub viewProducts_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+        txtSearchSheet.ResetText()
+        myConn = New SqlConnection(constr)
+        DisplayRecords()
+
+    End Sub
+
+    Private Sub txtSearchSheet_KeyDown(ByVal sender As System.Object, ByVal e As System.Windows.Forms.KeyEventArgs) Handles txtSearchSheet.KeyDown
+        DisplayRecords()
+    End Sub
+
+    Private Sub DisplayRecords()
+
+        Dim count As Integer = 0
+        myConn.Close()
+
+        sql = "SELECT * FROM Items WHERE ItemName LIKE '%" & txtSearchSheet.Text.Trim() & "%' "
+
+        cmd = New SqlCommand(sql, myConn)
+        myConn.Open()
+        rd = cmd.ExecuteReader
+        datagridSearchSheet.Rows.Clear()
+        While rd.Read
+
+            id = rd("ItemID").ToString
+            you = rd("ItemName").ToString           
+            price = rd("ItemPrice").ToString
+
+            Dim x As Integer = datagridSearchSheet.Rows.Add()
+            datagridSearchSheet.Rows(x).Cells(0).Value = rd("ItemID").ToString
+            datagridSearchSheet.Rows(x).Cells(1).Value = rd("ItemName").ToString
+
+            datagridSearchSheet.Rows(x).Cells(2).Value = rd("ItemPrice").ToString
+
+
+            count = count + 1
+
+        End While
+        myConn.Close()
+
+    End Sub
+
+    Private Sub btnClose_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnClose.Click
+        Me.Close()
+    End Sub
+
+
+    Private Sub btnOk_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnOk.Click
+        Try
+            Dim studID = txtSearchSheet.Text
+
+            frmtransaction.txtproductname.Text = studID
+
+        Catch ex As Exception
+
+        End Try
+
+        If (txtSearchSheet.Text.Trim().Length = 0) Then
+            MsgBox("Search Box is empty!")
+            txtSearchSheet.SelectAll()
+            txtSearchSheet.Focus()
+            Return
+
+        Else
+            save()
+            Me.Close()
+        End If
+    End Sub
+
+    Public Sub save()
+
+        sql = "Select * from Items where ItemName = '" & txtSearchSheet.Text & "'"
+        cmd = New SqlCommand(sql, myConn)
+        myConn.Open()
+        rd = cmd.ExecuteReader
+
+        If rd.Read Then
+            id = rd("ItemID").ToString
+            you = rd("ItemName").ToString
+            
+            price = rd("ItemPrice").ToString
+
+
+            frmtransaction.txtproductname.Text = you
+            frmtransaction.txtprice.Text = price
+
+
+        End If
+
+
+    End Sub
+
+    Private Sub datagridSearchSheet_CellContentClick(ByVal sender As System.Object, ByVal e As System.Windows.Forms.DataGridViewCellEventArgs) Handles datagridSearchSheet.CellContentClick
+        txtSearchSheet.Text = datagridSearchSheet.CurrentRow.Cells(1).Value
+
+    End Sub
+   
+    
+    Private Sub datagridSearchSheet_CellClick(sender As System.Object, e As System.Windows.Forms.DataGridViewCellEventArgs) Handles datagridSearchSheet.CellClick
+       
+       
+    End Sub
+End Class
